@@ -41,8 +41,4 @@ Desenvolvedor focado na arquitetura e construção de sistemas web escaláveis, 
 * **[ZeroDelay](https://github.com/AndreBerk/zerodelay):** Aplicação mobile nativa construída com Flutter e backend em Firebase, focada em performance e sincronização de dados em tempo real.
 * **[Sistema ERP - Bruna Brock](#):** Sistema de gestão de contratos, controle de inventário e logística, desenvolvido em PHP e Laravel. *(Documentação em breve)*
 
----
 
-### Contato
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) <!-- Coloque o link do seu LinkedIn aqui -->
-![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white) <!-- Coloque o seu e-mail aqui -->
