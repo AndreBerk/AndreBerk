@@ -39,6 +39,6 @@ Desenvolvedor focado na arquitetura e construção de sistemas web escaláveis, 
 
 * **[AgroVision-ERP-SaaS](https://github.com/AndreBerk/AgroVision-ERP-SaaS):** Plataforma web voltada para o agronegócio com mapeamento GPS e integração com modelos de Inteligência Artificial para diagnóstico de doenças em plantações.
 * **[ZeroDelay](https://github.com/AndreBerk/zerodelay):** Aplicação mobile nativa construída com Flutter e backend em Firebase, focada em performance e sincronização de dados em tempo real.
-* **[Sistema ERP - Bruna Brock](#):** Sistema de gestão de contratos, controle de inventário e logística, desenvolvido em PHP e Laravel. *(Documentação em breve)*
+* **[Sistema ERP - Bruna Brock](#):** Sistema de gestão de contratos, controle de inventário e logística, desenvolvido em PHP e Laravel. *Projeto Real em produção privado*
 
 
