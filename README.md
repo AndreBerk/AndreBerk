@@ -34,6 +34,9 @@ Desenvolvedor focado na arquitetura e construção de sistemas web escaláveis, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+### Estatísticas de Código
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBerk&layout=compact&theme=transparent&hide_border=true&text_color=333&title_color=333)](https://github.com/AndreBerk)
 
 ### Projetos em Destaque
 
